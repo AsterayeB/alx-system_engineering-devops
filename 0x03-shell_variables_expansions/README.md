@@ -1,1 +1,1 @@
-variable, aliases and expansion
+shell expansions
